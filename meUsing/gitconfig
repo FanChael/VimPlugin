@@ -1,0 +1,15 @@
+[user]
+    name = HuangLei
+    email = huangleililei@gmail.com
+[core]
+    editor = vim
+[alias]
+    ci = commit -a -v
+    throw = reset --hard HEAD
+    throwh = reset --hard HEAD^
+    st = status
+    br = branch
+[color]
+    ui = true
+[push]
+    default = current

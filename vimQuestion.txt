@@ -1,0 +1,7 @@
+﻿问题：Exuberant ctags (http://ctags.sf.net) not found in PATH. Plugin is not loaded.
+
+解决：
+	cd /home/huanglei/.vim/plugin/
+	
+	删除taglist.vim或者改下名称taglist.vim_copy，这样不会加载了。
+	可以了。当然你系统装的完备了，软件都装好了，应该没问题。

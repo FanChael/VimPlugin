@@ -1,0 +1,6 @@
+vim
+  将目录拷贝到主目录下，然后修改为.vim,然后拷贝其中的vimrc为.vimrc到主目录；
+gitconfig
+  直接拷贝到主目录，然后修改为.gitconfig就行；
+
+以上要装了vim，装了ctags，装了git-core，tig工具才行哦 ；
